@@ -1,6 +1,6 @@
-# Java-ball-breaker-game
+Tetris
 
-PROJECT TITLE: Tetris Puyo
+# Java-ball-breaker-game
 
 Problem and Solution Abstract:
 Our game is using simple concepts of java .WE pick four images that are smilies in this case and we have to pile them or arrange them in such a formation so that four or more in consecutive arrangements is formed that Is known as Tetris. 
